@@ -1,0 +1,12 @@
+flask==3.0.3
+flask-cors==4.0.1
+pandas
+numpy
+scikit-learn
+nltk
+joblib
+librosa
+tensorflow
+opencv-python
+pydub
+soundfile
