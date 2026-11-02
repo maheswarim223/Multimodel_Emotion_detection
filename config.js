@@ -58,4 +58,4 @@ export const MODALITIES = [
 
 export const MODALITY_MAP = Object.fromEntries(MODALITIES.map(m => [m.id, m]))
 
-export const API_BASE = 'http://localhost:5050'
+export const API_BASE = 'https://multimodel-emotion-detection.onrender.com'
